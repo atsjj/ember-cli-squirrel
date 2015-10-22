@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-squirrel",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Ship a build somewhere on you system so it can be used.",
   "directories": {
     "doc": "doc",
